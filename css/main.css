@@ -1,0 +1,21 @@
+.certificate {
+  position: relative;
+  background-image: url(../imgs/certificate-02.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.content {
+  position: absolute;
+  margin: 220px auto;
+}
+.signature {
+  position: absolute;
+  margin: 520px auto;
+  display: flex;
+  justify-content: space-between !important;
+  width: 60%;
+}
